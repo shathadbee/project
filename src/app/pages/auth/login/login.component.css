@@ -1,9 +1,9 @@
 .main{
-    min-height: 100vh;
-    display:flex;
-    justify-content:center;
-    background-color:rgb(228, 220, 220);
-    align-items:center;
+  min-height: 100vh;
+  display:flex;
+  justify-content:center;
+  background-color:rgb(228, 220, 220);
+  align-items:center;
 
 
 }
