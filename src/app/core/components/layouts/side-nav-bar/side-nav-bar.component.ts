@@ -18,6 +18,7 @@ export class SideNavBarComponent implements OnInit ,AfterViewInit{
   @ViewChild(MatSidenav)
   sideNav!:MatSidenav;
   navServiceList:NavMenuDto=new NavMenuDto('',[])
+
 haschildren: TemplateRef<NgIfContext<boolean>>;
 item: any;
 
